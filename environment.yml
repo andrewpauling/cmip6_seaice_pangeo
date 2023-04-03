@@ -17,3 +17,6 @@ dependencies:
   - intake-esm
   - xmip
   - cftime
+  - cf_xarray
+  - aiohttp
+  - gcsfs
